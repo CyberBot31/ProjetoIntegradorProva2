@@ -1,0 +1,22 @@
+Integrantes do Grupo : 
+Aluno 1: Christian De Sousa Araújo
+
+Aluno 2: Luandson duarte de sousa
+
+Aluno 3: MATHEUS GRIGORIO LINS MEDEIROS
+
+
+Conta.java : Nesta classe é feita as exigencias de atributos, como também tem alguns
+methods como "deposita" e "saca", os "get" e "set", não aceitando valores negativos.
+
+
+ContaCorrente.java : Nesta classe incluimos apenas um method, o de sacar.
+
+ContaPoupança.java : Nesta classe incluimos o method "rendimentoPoupança()" além do de 
+"sacar()", no "rendimentoPoupança()" temos um acrescimo de 2%.
+
+ContaInvestimento.java : Nesta classe incluimos o methos "rendimentoInvestimento()", onde
+temos um acrescimo de 10%, também temos o method "sacar()".
+
+Teste.java : Aqui chamamos as classes e seus methods, inserindo valor a ser depositado
+de maneira manual, e em seguida, chamamos os prints do saldo de cada classe.
